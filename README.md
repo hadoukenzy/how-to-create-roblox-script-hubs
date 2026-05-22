@@ -90,7 +90,22 @@ This project focuses on:
 - Script hub organization
 - Automation systems
 - Educational Lua examples
+## Open Source Roblox Hub Example
 
+Example of a public multi-game Roblox script hub repository:
+
+https://github.com/hadoukenzy/DXD-Hub
+
+The project demonstrates:
+
+- modular Lua loader systems
+- game detection using PlaceId
+- dynamic script loading
+- UI integration
+- multi-game support
+- update/version systems
+
+This type of structure is commonly used in Roblox automation hubs and scripting frameworks.
 ## Disclaimer
 
 This repository is provided for educational and research purposes only.
